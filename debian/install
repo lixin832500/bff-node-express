@@ -1,4 +1,4 @@
-node_modules	src
-public			src
-server			src
-package.json	src
+node_modules	usr/src
+public			usr/src
+server			usr/src
+package.json	usr/src
