@@ -1,15 +1,15 @@
 Source: test-0.0
-Section: unknown
+Section: x11
 Priority: optional
 Maintainer: Wilson Ding <wilson.ding1@ibm.com>
 Build-Depends: debhelper (>= 9)
 Standards-Version: 3.9.8
 Homepage: <insert the upstream URL, if relevant>
-#Vcs-Git: https://anonscm.debian.org/collab-maint/test-0.0.git
-#Vcs-Browser: https://anonscm.debian.org/cgit/collab-maint/test-0.0.git
+Vcs-Git: https://github.ibm.com/Wilson-Ding1/bff-node-express.git
+Vcs-Browser: https://github.ibm.com/Wilson-Ding1/bff-node-express
 
 Package: test-0.0
 Architecture: all
 Depends: ${misc:Depends}
-Description: <insert up to 60 chars description>
- <insert long description, indented with spaces>
+Description: Test application
+ Test application with a longer description
