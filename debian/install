@@ -1,1 +1,4 @@
-../*	home/wilson/test
+node_modules	src
+public			src
+server			src
+package.json	src
