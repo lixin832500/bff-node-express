@@ -1,4 +1,5 @@
-node_modules	usr/src
-public			usr/src
-server			usr/src
-package.json	usr/src
+node_modules		usr/src
+public				usr/src
+server				usr/src
+package.json		usr/src
+package-lock.json	usr/src
